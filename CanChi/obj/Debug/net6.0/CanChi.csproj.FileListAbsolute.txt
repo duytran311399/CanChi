@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CanChi\CanChi\bin\Debug\net6.0\CanChi.exe
+C:\Users\Admin\source\repos\CanChi\CanChi\bin\Debug\net6.0\CanChi.deps.json
+C:\Users\Admin\source\repos\CanChi\CanChi\bin\Debug\net6.0\CanChi.runtimeconfig.json
+C:\Users\Admin\source\repos\CanChi\CanChi\bin\Debug\net6.0\CanChi.dll
+C:\Users\Admin\source\repos\CanChi\CanChi\bin\Debug\net6.0\CanChi.pdb
+C:\Users\Admin\source\repos\CanChi\CanChi\obj\Debug\net6.0\CanChi.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CanChi\CanChi\obj\Debug\net6.0\CanChi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CanChi\CanChi\obj\Debug\net6.0\CanChi.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CanChi\CanChi\obj\Debug\net6.0\CanChi.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CanChi\CanChi\obj\Debug\net6.0\CanChi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CanChi\CanChi\obj\Debug\net6.0\CanChi.dll
+C:\Users\Admin\source\repos\CanChi\CanChi\obj\Debug\net6.0\refint\CanChi.dll
+C:\Users\Admin\source\repos\CanChi\CanChi\obj\Debug\net6.0\CanChi.pdb
+C:\Users\Admin\source\repos\CanChi\CanChi\obj\Debug\net6.0\CanChi.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CanChi\CanChi\obj\Debug\net6.0\ref\CanChi.dll
